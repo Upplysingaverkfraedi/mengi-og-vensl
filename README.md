@@ -1,7 +1,5 @@
 # Mengi og vensl
 
-Stutt tímaverkefni um mengi og vensl
-
 ## Leiðbeiningar
 
 - **Öll svör verða að vera rökstudd með skýrri röksemdafærslu.** Ekki verður veitt stig fyrir svör
@@ -37,12 +35,12 @@ mengjahugtökum og þekktar umritunarreglur til að sýna að:**
 
 a. **Sýnið að sniðmengi $A \cap B$ má skrifa sem:**
 
-    $$ A \cap B = A \setminus (A \setminus B) $$
+$$ A \cap B = A \setminus (A \setminus B) $$
 
    
 b. **Sýnið að sammengi \(A \cup B\) má skrifa með hjálp mismunamengja:**  
 
-    $$ A \cup B = (A \setminus B) \cup B $$
+$$ A \cup B = (A \setminus B) \cup B $$
 
 Sýnið útreikningana og notið skilgreiningar á sammengi $\(\cup\)$, sniðmengi $\(\cap\)$,
 og mismengi $\(\setminus\)$, og stærðfræðilega rökfærslu.
