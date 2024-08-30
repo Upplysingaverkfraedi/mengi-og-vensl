@@ -48,7 +48,7 @@ og mismengi $\(\setminus\)$, og stærðfræðilega rökfærslu.
 ## 2. Veldismengi (20 stig)
 
 **Látum $P(A)$ vera veldismengið af menginu $A$. Sýnið hvort að $P(A) \subseteq P(P(A))$ sé
-alltaf það sama og tómamengið. Rökstyðjið af hverju eða af hverju ekki.** (20 stig)
+alltaf satt. Rökstyðjið af hverju eða af hverju ekki.** (20 stig)
 
 Skýrið ítarlega með röksemdum hvort mengið $P(A)$ sé eða sé ekki hlutmengi af $P(P(A))$. Notið
 dæmi til að styðja röksemdir ykkar.
